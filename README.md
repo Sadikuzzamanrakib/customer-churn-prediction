@@ -1,4 +1,5 @@
 title: Customer Churn Prediction
+
 colorFrom: teal
 colorTo: blue
 sdk: gradio
@@ -7,7 +8,6 @@ app_file: app.py
 pinned: true
 license: mit
 short_description: Predict telecom customer churn with XGBoost · 93% accuracy
----
 
 # 🔮 Customer Churn Prediction Dashboard
 
